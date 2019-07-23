@@ -35,7 +35,7 @@ namespace Argument
         {
             System.Diagnostics.Process pProcess = new System.Diagnostics.Process();
             pProcess.StartInfo.FileName = @"C:\zzzzzzzzzzzzzzz\2_0_1_1.exe";                            // FILE LOCATION
-            pProcess.StartInfo.Arguments = textBox1.Text;                                                      //argument               
+            pProcess.StartInfo.Arguments = "pass";                                                      //argument               
             pProcess.StartInfo.UseShellExecute = false;
             pProcess.StartInfo.RedirectStandardOutput = true;
             pProcess.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
