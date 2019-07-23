@@ -1,0 +1,9 @@
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Release\Argument.exe.config
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Release\Argument.exe
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Release\Argument.pdb
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.Form1.resources
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.Properties.Resources.resources
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.csproj.GenerateResource.cache
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.csproj.CoreCompileInputs.cache
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.exe
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Release\Argument.pdb

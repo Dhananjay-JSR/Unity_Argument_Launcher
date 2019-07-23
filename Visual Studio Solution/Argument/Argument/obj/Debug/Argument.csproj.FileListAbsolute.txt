@@ -1,0 +1,20 @@
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Debug\Argument.exe.config
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Debug\Argument.exe
+C:\Users\EDIUS\source\repos\Argument\Argument\bin\Debug\Argument.pdb
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.csprojAssemblyReference.cache
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.Form1.resources
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.Properties.Resources.resources
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.csproj.GenerateResource.cache
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.csproj.CoreCompileInputs.cache
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.exe
+C:\Users\EDIUS\source\repos\Argument\Argument\obj\Debug\Argument.pdb
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\bin\Debug\Argument.exe.config
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\bin\Debug\Argument.exe
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\bin\Debug\Argument.pdb
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.csprojAssemblyReference.cache
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.Form1.resources
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.Properties.Resources.resources
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.csproj.GenerateResource.cache
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.csproj.CoreCompileInputs.cache
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.exe
+C:\Users\EDIUS\Music\Unity Argument Launcher\Unity_Argument_Launcher\Visual Studio Solution\Argument\Argument\obj\Debug\Argument.pdb
